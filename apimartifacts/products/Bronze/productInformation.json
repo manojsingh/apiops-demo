@@ -1,0 +1,12 @@
+{
+  "name": "Bronze",
+  "properties": {
+    "displayName": "Bronze",
+    "approvalRequired": false,
+    "description": "New Product Bronze created via code",
+    "state": "published",
+    "subscriptionRequired": true,
+    "subscriptionsLimit": 1,
+    "terms": ""
+  }
+}
